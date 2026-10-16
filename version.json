@@ -1,0 +1,7 @@
+{
+  "version": "10.2.0",
+  "title": "Leo Music Studio v10.2.0 — Slowed+Reverb, Mini-Player & Visualizers",
+  "notes": "• Added 0.85x Slowed+Reverb & 1.25x Nightcore Speed Mode (Shortcut: V)\n• Added Always-on-Top Floating Mini-Player with Live Lyrics Ticker (Shortcut: W)\n• Added 4 Interactive Visualizer Styles: Bars, Wave, Mirror, Pulse (Shortcut: G)",
+  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
+  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.2.0/Leo_Music_Windows_v10.2.0.zip"
+}
