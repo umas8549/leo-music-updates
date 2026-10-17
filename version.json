@@ -1,7 +1,0 @@
-{
-  "version": "10.2.2",
-  "title": "Leo Music Studio v10.2.2 — New Scrollable Home Dashboard",
-  "notes": "• Redesigned Scrollable Home Dashboard (Hero, Last Played, Quick Play, Trending, History)\n• Added Live Trending Charts Row & Persistent Recently Played History\n• Added Smooth Custom Scrollbar & 1-Click Card Actions",
-  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.2.2/Leo_Music_Windows_v10.2.2.zip"
-}
