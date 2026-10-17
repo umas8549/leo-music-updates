@@ -1,0 +1,7 @@
+{
+  "version": "10.2.3",
+  "title": "Leo Music Studio v10.2.3 — Multi-Language Setup & Audio Engine",
+  "notes": "• Added Multi-Language Setup Onboarding (Select 1, 2, 3, 4+ Languages for Feed)\n• Fixed Windows Setup Script (\ was unexpected at this time)\n• Added Language Filter Ribbon & Stream Quality Selector in Settings",
+  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
+  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.2.3/Leo_Music_Windows_v10.2.3.zip"
+}
