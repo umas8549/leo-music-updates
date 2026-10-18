@@ -1,7 +1,0 @@
-{
-  "version": "10.2.4",
-  "title": "Leo Music Studio v10.2.4 — Interactive Language Panels, Diverse Trending & 60Hz+ Engine",
-  "notes": "• Fixed Clickable Language & Mood Filter Ribbons (Dynamic Home Page Filtering)\n• Added Selected-Language Song Panels on Home Page & Fixed Trending Diversity\n• Added 60Hz+ / 120Hz Auto Smooth Refresh Engine & 1-Click Mix Radio Button",
-  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.2.4/Leo_Music_Windows_v10.2.4.zip"
-}
