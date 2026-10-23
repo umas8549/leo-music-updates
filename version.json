@@ -1,7 +1,0 @@
-{
-  "version": "10.3.9",
-  "title": "Leo Music Studio v10.3.9 \u2014 BetterLyrics 2.0, 3D Curved Glass, Moveable Dynamic Bar & 10.3.3\u201310.3.9 Bug Fixes",
-  "notes": "\u2022 Added BetterLyrics 2.0 (Word-by-Word Fluid Glow Sweep, Active Line 1.18x Zoom, Vocal-Beat Breathing Aura, 1-Click Copy & Re-Fetch LRC)\n\u2022 Added 4 Selectable Full-Screen Studio Modes: 3D Split + Lyrics, Full-Screen Cinema Lyrics, Concert Visualizer Stage, and Smart Queue Deck\n\u2022 Added 3D Curved Convex Lens Glass Effect (\u2726 3D Curved Glass: ON/OFF) + Always-On-Top Moveable Dynamic Bar Overlay (Compact Pill & Expanded 3D Pod)\n\u2022 Fixed all v10.3.3\u2013v10.3.9 bugs: GDI+ Region handle leak, TopMost Alt+Tab Z-order drop, VBR lyrics drift, rapid-skip crossfade overlap, and filter race conditions",
-  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.3.9/Leo_Music_Windows_v10.3.9.zip"
-}
