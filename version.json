@@ -1,0 +1,7 @@
+{
+  "version": "10.4.0",
+  "title": "Leo Music Studio v10.4.0 \u2014 Boxless Fade-on-Fade Lyrics Studio, Phone-Style Small Dynamic Bar & Zero-Stutter 120Hz Engine",
+  "notes": "\u2022 Boxless Fade-on-Fade BetterLyrics 2.0 (Lyrics float directly on background & dissolve smoothly at top/bottom with zero boxes)\n\u2022 8 New Studio Customization Options in Settings: Stage Style (Boxless/Halo/Glass), Fade Curve, Fade Zone Size, Glow Intensity, Background Art (Cover Fade / 3D Morph Art / Vinyl / Mesh), Font Art Style, Text Size & Bar Theme\n\u2022 Sleek Phone-Style Small Dynamic Bar (264x34 Pure Black or Live-Mesh Pill with Leo Crest, Song Name & 4-Bar Waveform)\n\u2022 Zero-Stutter 120Hz Engine (Offscreen Aurora Buffer, Throttled WMP COM Polling & Lyric Layout Cache)",
+  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
+  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.4.0/Leo_Music_Windows_v10.4.0.zip"
+}
