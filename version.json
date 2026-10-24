@@ -1,7 +1,0 @@
-{
-  "version": "10.4.2",
-  "title": "Leo Music Studio v10.4.2 — 1:1 Redesigned Cinema Home Stage, Full-Screen Song/Lyrics Studio & Floating Up Next Dock",
-  "notes": "• 1:1 Redesigned Cinema Home Page: Full-Window Atmospheric Song Backdrop, Boxless PLAYING NOW Hero Spotlight ([▶ Play] + [♡] + [•••]), 5-Card 1:1 Recently Played Row (with live song thumbnails) & Scrollable Trending/Library Shelves\n• 1:1 Redesigned Left Sidebar: ♫ LEO Music brand header, 6 primary nav items (Home, Search, Library, Liked Songs, Playlists, Downloads), Playlists + quick list with cover thumbnails, and pinned bottom Settings\n• 1:1 Redesigned Floating Up Next Card & Bottom Player Dock: Active song pill with live 5-bar waveform, circular glowing neon-ring Play/Pause button, volume slider, queue/lyrics toggle & fullscreen expand\n• 1:1 Redesigned Full-Screen Studio Panel: Top-center [Song] / [Lyrics] pill tabs, large 1:1 rounded glowing cover art, Song Info + Heart button + Progress bar + Neon-Ring Play/Pause, right scrollable Lyrics card (toggles via ☰), and bottom-left Playing on This PC",
-  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.4.2/Leo_Music_Windows_v10.4.2.zip"
-}
