@@ -1,9 +1,0 @@
-{
-  "version": "10.4.4",
-  "releaseDate": "2026-10-25",
-  "channel": "stable",
-  "mandatory": false,
-  "title": "Leo Music Studio v10.4.4 - Zero-Lag Turbo Engine, 150% Studio Volume Controller & Playback Smoothness Suite",
-  "notes": "v10.4.4 Major Performance & Feature Upgrade:\n1. ZERO-LAG TURBO RENDERING & INPUT ENGINE: Pre-baked rounded thumbnail bitmap cache (eliminates per-frame 500x500 rescaling & region clipping), offscreen 384x216 Format32bppPArgb composite backdrop buffer (cuts multi-image song background CPU load by >85% and fixes duplicate full-screen redraw), debounced settings disk writes during slider dragging, and throttled COM DSP reflection.\n2. INTERACTIVE 3D GLASS STUDIO VOLUME CONTROLLER POPUP: Click the Volume % pill (or right-click the volume slider / click the top-bar Volume pill) on either Home or Full-Screen Panel to open the Studio Volume Controller with 0% to 150% Overdrive Pre-Amp Boost, Fine +/-1% & +/-5% step buttons, 6 one-click presets (20%, 50%, 75%, 85%, 100%, 135% Boost), Stereo Balance (L/Center/R), and Mouse-Wheel scroll volume control.\n3. PLAYBACK SMOOTHNESS SUITE: 180ms Smooth Volume Micro-Fade on Play/Pause/Seek (eliminates harsh audio pops), Smart Auto-Volume Normalization (ReplayGain auto-leveler across songs), Zero-Lag Next-Track Pre-Buffer (pre-caches the next song in queue for 0ms track switches), Seamless A-B Loop pill on the bottom bar, and Audio Buffer Latency Profiles.\n4. PRESERVES 100% OF v1.0 - v10.4.3 FEATURES: Multi-Image 16:9 Playing Song Background Slideshow, 5-Page Tabbed Settings Studio, Full-Screen 3-Dot Popup Menu, Boxless BetterLyrics 2.0, Compact Phone-Style Dynamic Bar Overlay, 5-Band Hardware EQ, and 13-File Out-of-the-Box Standalone Installer.",
-  "downloadUrl": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs"
-}
