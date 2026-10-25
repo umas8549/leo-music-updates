@@ -1,9 +1,0 @@
-{
-  "version": "10.4.3",
-  "releaseDate": "2026-04-06",
-  "channel": "stable",
-  "mandatory": false,
-  "title": "Leo Music Studio v10.4.3 - Multi-Image Song Background Slideshow + 5-Page Settings Studio + Full-Screen 3-Dot Popup Menu",
-  "notes": "v10.4.3 Major Upgrade:\n1. MULTI-IMAGE PLAYING SONG BACKGROUND SLIDESHOW (NON-THUMBNAIL 16:9 WIDESCREEN): Replaces static dark backgrounds with a live multi-image cinema backdrop of the playing song (Original Cinema Wide, Edited Neon Anamorphic Grade, Edited Concert Stage Spotlight, Edited Cyber Duotone, Edited Vintage Golden-Hour Film, and Live Artist Gallery Stills) with smooth cosine crossfade, Ken Burns zoom/pan, cinema dissolve, slide+fade, and pulse morph transitions.\n2. 5-PAGE ORGANIZED SETTINGS STUDIO: Organizes Settings into 5 clean sub-pages: [Account & Profile], [Player & Audio EQ], [Lyrics & Dyn Bar], [Theme & Background] (with clickable 6-frame background filmstrip preview), and [System & Updates].\n3. ENHANCED FULL-SCREEN PANEL 3-DOT (⋮) POPUP MENU: Clicking the top-right 3-dot icon in the Full-Screen Panel opens an interactive 3D glass popup with instant view modes (Playing + Lyrics Both, Only Playing Song Art, Only Lyrics Full Boxless, Concert Visualizer + Lyrics) plus quick actions (Next Background Image, Dynamic Bar Overlay, Audio EQ & Settings, Download 320kbps Track).\n4. PRESERVES 100% OF v1.0 - v10.4.2 FEATURES: Clayface Reference UI on Home & Full-Screen Panel, Boxless Fade-In-Background BetterLyrics + LRCLIB, Compact Phone-Style Dynamic Island Pill Overlay, 5-Band Hardware EQ, and 13-File Out-of-the-Box Standalone Installer.",
-  "downloadUrl": "https://raw.githubusercontent.com/amankumar2007/Leo-Music-Updates/main/LeoLauncher.cs"
-}
