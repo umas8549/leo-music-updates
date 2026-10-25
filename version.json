@@ -1,0 +1,11 @@
+{
+  "version": "10.4.6",
+  "releaseDate": "2026-10-25",
+  "channel": "stable",
+  "mandatory": false,
+  "title": "Leo Music Studio v10.4.6 - 3D Acoustic Ambience Rooms, Live BPM & Musical Key Detector, Instant Track Share & Ultra-Smooth Lyrics",
+  "notes": "v10.4.6 Studio Experience Upgrade:\n1. 4 STUDIO ACOUSTIC AMBIENCE ROOMS: Switch between Studio Master (Dry), 3D Concert Hall, Late Night Lo-Fi Warmth, and Bass Cathedral directly from the top header bar ('✦ Studio / Concert / Lo-Fi / Cathedral') or Settings.\n2. REAL-TIME TRACK BPM & MUSICAL KEY DETECTOR: Displays live rhythmic BPM (e.g. 124 BPM), musical key scale (e.g. C Minor / G# Minor), and 320kbps lossless master verification inside the Acoustic & Lyrics Studio.\n3. 1-CLICK NOW-PLAYING SHARE CARD & VERIFIED LYRICS SYNC: Copy a formatted track status card to share on WhatsApp/Discord with one click, plus enjoy 100% verified lyrics matching and sub-pixel 60Hz/120Hz teleprompter glide.",
+  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
+  "download_url": "https://github.com/umas8549/leo-music-updates/releases/download/v10.4.6/Leo_Music_Windows_v10.4.6.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs"
+}
