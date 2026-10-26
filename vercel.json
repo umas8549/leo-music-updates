@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "leo-music-studio",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
