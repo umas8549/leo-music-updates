@@ -1,8 +1,0 @@
-{
-  "version": "10.6.0",
-  "title": "Leo Music Studio v10.6.0 — Siri/Google AI PC Agent, Offline Local Downloads Folder, Profile Photo & Crossfade Fix",
-  "notes": "• Persistent Local Downloads & Data Folder (Leo_Music_Local_Data\\Downloads) with 100% Offline Playback & Auto-Scan on Restart\r\n• Fixed User Name Typing (Shortcut keys no longer trigger while typing in Name or Agent input boxes) + Spoken 'Welcome [User Name]'\r\n• Upload Custom Profile Photo from PC/Laptop + Accurate Floating-Point Crossfade (Off / 1s / 3s / 5s / 8s / 12s)\r\n• Floating Circular Siri & Google Assistant Style AI Agent: Single & Multi-Task PC Control (WhatsApp App/Web, Notes, ChatGPT, YouTube Auto-Play & Full Leo App Control) + Background Desktop Mode",
-  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "download_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "downloadUrl": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs"
-}
