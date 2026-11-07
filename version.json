@@ -1,8 +1,0 @@
-{
-  "version": "10.6.1",
-  "title": "Leo Music Studio v10.6.1 — Fixed AI Agent UI & Desktop Widget, High-Accuracy Mic Grammar & Smart PC Tools",
-  "notes": "• Fixed AI Agent Modal Overlap & Readability: Opaque Deep Obsidian surface (zero background bleed-through) and non-overlapping header buttons\r\n• Fixed Floating Desktop Widget Size & Position: Proper 88x88 circular orb (click to expand to 490x310 Desktop Hub with Mini Music Transport, drag to move)\r\n• High-Accuracy Dual-Grammar Voice Mic: Priority Command + Song Grammar + Phonetic Auto-Correction & Smart Conversational AI Brain\r\n• New v10.6.1 Features: 1-Click Full-Screen PC Screenshot Capture, Live Battery/RAM Telemetry & Smart Voice Countdown Timer",
-  "source_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "download_url": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs",
-  "downloadUrl": "https://raw.githubusercontent.com/umas8549/leo-music-updates/main/LeoLauncher.cs"
-}
