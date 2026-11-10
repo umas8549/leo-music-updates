@@ -1,0 +1,6 @@
+{
+  "version": "10.7.0",
+  "title": "Leo Music Studio v10.7.0 (Vivid Cosmic UI, Windows Notification Center & 99% Sync Lyrics Edition)",
+  "download_url": "https://raw.githubusercontent.com/Gourav1883/leo-update-config/main/LeoLauncher.cs",
+  "notes": "1. Reworked Homepage with high-contrast vector Neon Category Cards, vivid Cosmic Mountain Aurora hero banner, and clean background separation.\r\n2. Added native Windows Notification Center Now-Playing banner & Taskbar title updates when a song plays.\r\n3. Upgraded Lyrics Engine with 99% Exact LRC priority, 80ms Phase-Locked Loop vocal sync, and live Accuracy % badges + micro-sync controls."
+}
