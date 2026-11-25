@@ -1,0 +1,6 @@
+{
+  "version": "11.0.5",
+  "title": "Leo Music Studio v11.0.5 - Dual Song Engine & Jiggle Physics Edition",
+  "download_url": "https://github.com/umas8549/leo-music-updates/releases/latest",
+  "notes": "1. Complete next-gen native Go GPU desktop architecture (v11.0.5).\n2. Dual Song Engine: Echo YouTube Engine + Leo 320kbps JioSaavn Engine working together with accurate Title+Artist matching & automatic failover.\n3. Doubled animations (14 spring/jiggle presets, 100+ active animation sites) + real anisotropic Jiggle Physics.\n4. New Leo Studio controls: Dual-Engine selector, Jiggle Physics intensity, Turbo 120Hz animations, Sleep Timer fade-out, and Bass Punch."
+}
