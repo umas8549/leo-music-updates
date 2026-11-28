@@ -1,0 +1,10 @@
+{
+  "version": "11.8.4",
+  "latest": "11.8.4",
+  "tag": "v11.8.4",
+  "title": "Leo Music v11.8.4 \u2014 Now Playing Scrubber Glitch Fix & Studio UI Redesign",
+  "url": "https://github.com/LGM356/leo-music/releases/latest",
+  "download_url": "https://github.com/LGM356/leo-music/releases/latest",
+  "downloadUrl": "https://github.com/LGM356/leo-music/releases/latest",
+  "notes": "Adds Native In-App Original Music Video playback! Switch between Music & Video in Now Playing (plays inside the banner) and Full-Screen (plays full edge-to-edge cinema mode), choose 480p / 720p / 1080p right beside Play/Pause, with 40-second anti-buffer preloading and automatic audio-clock sync."
+}
