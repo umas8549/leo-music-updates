@@ -1,40 +1,22 @@
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;assets/leo_logo_64.png&quot; alt=&quot;Leo Music Studio Logo&quot; width=&quot;84&quot; height=&quot;84&quot; /&gt;
-  &lt;h1&gt;Leo Music Studio&lt;/h1&gt;
-  &lt;p&gt;&lt;strong&gt;Native Go GPU Desktop Music &amp;amp; Music-Video Studio&lt;/strong&gt;&lt;br/&gt;
-  Built with Material 3 Liquid Glass, Dual Song Engine (YouTube HD + 320 kbps Failover), Native 1080p Music Video, 4-Cue Binaural 8D Orbital 360°, and 6 Research-Backed Motion Physics Engines.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;a href=&quot;https://github.com/LGM356/leo-music/releases&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/v/release/LGM356/leo-music?style=for-the-badge&amp;color=7c4dff&amp;label=Latest%20Release&quot; alt=&quot;Latest Release&quot; /&gt;&lt;/a&gt;
-    &lt;a href=&quot;https://github.com/LGM356/leo-music/releases&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/downloads/LGM356/leo-music/total?style=for-the-badge&amp;color=00bfa5&amp;label=Downloads&quot; alt=&quot;Downloads&quot; /&gt;&lt;/a&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Go-Native%20GPU%20UI-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white&quot; alt=&quot;Go Native GPU UI&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-222?style=for-the-badge&quot; alt=&quot;Platform&quot; /&gt;
-  &lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;a href=&quot;https://github.com/LGM356/leo-music/releases&quot;&gt;Download Latest&lt;/a&gt; •
-    &lt;a href=&quot;#screenshots&quot;&gt;Screenshots&lt;/a&gt; •
-    &lt;a href=&quot;#key-features&quot;&gt;Features&lt;/a&gt; •
-    &lt;a href=&quot;#youtube-audio--video-pipeline&quot;&gt;Architecture&lt;/a&gt; •
-    &lt;a href=&quot;#quick-start--1-click-build&quot;&gt;Quick Start&lt;/a&gt; •
-    &lt;a href=&quot;https://github.com/LGM356/leo-music/issues/new&quot;&gt;Report an Issue&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-
----
 
 ## Screenshots
+<img width="1461" height="942" alt="image" src="https://github.com/user-attachments/assets/a0bc8620-1482-4fa7-9201-821fe7549035" />
+<img width="1456" height="943" alt="image" src="https://github.com/user-attachments/assets/6c42e7ed-d5ba-43a1-865b-934f808c0c71" />
+<img width="1450" height="955" alt="image" src="https://github.com/user-attachments/assets/7a006809-cb03-4219-8e94-01b07fdee61a" />
 
 ### Home Studio — Speed Dial, Quick Picks & Liquid Glass Dock
+<img width="1457" height="942" alt="image" src="https://github.com/user-attachments/assets/61eaea39-4f7f-44a1-a405-41ed307e63ae" />
 
 
 ### Now Playing — Native 1080p Music Video, Wavy Scrubber & Live Up Next Queue
+<img width="620" height="352" alt="image" src="https://github.com/user-attachments/assets/51006e68-3bd3-4078-a2f5-529e3ed5668c" />
 
 
 ### Floating Liquid Glass Player Bar
 
 
 ### Leo Studio Pro — Liquid Glass Blur & Optical Customization
+<img width="1445" height="925" alt="image" src="https://github.com/user-attachments/assets/dc5a565e-083c-42bc-bb73-477ed2852c8c" />
 
 
 | Motion Physics Engine | Studio Audio DSP Effects |
